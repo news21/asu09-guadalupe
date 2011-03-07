@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/1d/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/1d/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1d/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/1d/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[JUAN DIEGO - The Virgin of Guadalupe appeared to Juan Diego, an indigenous Mexican, in 1531.  He was canonized a saint in 2002 by the Roman Catholic Church and is the first indigenous American saint. His life was documented in the Imagen de la Virgen Maria, Madre de Dios de Guadalupe, Milagrosamente aparecida en la Ciudad de México, written in Spanish by Miguel Sanchez , and in Nican Mopohua, written in Nahuatl, an indigenous language. The Nican Mopohua was written by Mexican priest and lawyer Luis Laso de la Vega. Both of these accounts appeared more than 100 years after the Virgin’s appearance in 1531.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1d/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/1d/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[BISHOP JUAN DE ZUMÁRRAGA - 1468-1548 -- Bishop Zumárraga was part of the Franciscan order and the official protector of the indigenous peoples. He was the bishop to whom Juan Diego delivered the message of the Virgin in 1531. Diego went to Zumárraga with news of the Virgin’s appearance twice and was told to return with proof. On his third visit, he opened his tilma, or cloak, to reveal an astonishing image of the Virgin of Guadalupe. Finally convinced, the bishop declared that a miracle had occurred.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1d/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/1d/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[TONANTZIN - Anthropologists believe that this Aztec or Mexica goddess was once worshipped on the site where the Virgin of Guadalupe appeared in 1531. She was called “Goddess of Sustenance” and “Mother of Corn,” but is most commonly referred to as the Mother Earth goddess. In many ways, the Virgin of Guadalupe and Tonantzin are dual figures. It may be that indigenous people who were converted to Catholicism covertly worshipped Tonantzin in the guise of the Virgin of Guadalupe.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1d/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/1d/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[VIRGIN OF GUADALUPE - An arresting, figure, the Virgin of Guadalupe has many faces – and a disputed history. She is considered by some to be a hybrid of the Virgin Mary and Tonantzin, the Aztec Mother Earth goddess. Some say she is an adaptation of the Virgin of Guadalupe from Extremadura, a black Virgin Mary apparition wearing a red and gold dress while others argue that a translation from Nahuatl, the indigenous language to Spanish caused the name Coatlallope, one who treads on snakes, to be misinterpreted as Guadalupe. She is credited with helping to win many Catholic converts in Mesoamerica after the Spanish conquest. Today she is an important part of Mexican identity and popular culture and because she is seen as the pregnant Madonna, she has been adopted as a symbol of the pro-life movement in both Latin America and the United States. ]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

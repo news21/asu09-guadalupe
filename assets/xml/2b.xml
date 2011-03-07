@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/2b/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The story of the Virgin of Guadalupe dates back to 1531 when she is believed to have appeared to Juan Diego, an indigenous Mexican. A church in her name was built on the site in Mexico City where she appeared. A prayer card shows the Virgin of Guadalupe as she is believed to have appeared to Juan Diego in 1531.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The story of the Virgin of Guadalupe dates back to 1531 when she is believed to have appeared to Juan Diego, an indigenous Mexican. A church in her name was built on the site in Mexico City where she appeared. A prayer card shows the Virgin of Guadalupe as she is believed to have appeared to Diego.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[French Empress Carlota and Emperor Maximilian kneel before Our Lady of Guadalupe as bayonets pierce dark clouds beneath them in this image, created by an unknown artist in the mid-1800s. Library of Congress Archives.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The Virgin of Guadalupe appears on the first page of a book about the Virgin written in Nahuatl, a Mexican indigenous language, in 1649. The author is Luis Lasso de la Vega. Source: Center for the Study of the History of Mexico CARSO]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An image of Miguel Hidalgo, leader of the Mexican revolution against Spain, who would march carrying a banner with the image of the Virgin of Guadalupe further tying her to Mexican identity and politics. From the Library of Congress.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The words of the song "Mary of the Heavens" appears on the righthand page of this book. The Virgin of Guadalupe has been celebrated in song and prayer for more than 400 years.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A hand-colored lithograph created by N. Currier in 1848 celebrates Our Lady of Guadalupe. Library of Congress Archives.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A song to the Virgencita, ot the Virgin of Guadalupe, alongside a song "If you could only love me." The song reads: Little Virgin of my soul; My sweet love; Allow me to give: You a kiss: On your divine mouth: Red Flower: Wisp of roses: Bathed in light: Dreaming with your love: I consider myself lucky: I see everything: Happy, speldidly: Away from your side: Everything is cloudy: Little virgin of my soul: Sweet love of mine; My idolized angel: You don't know realize; How much I love you; Cover me with your wings; Carry me to heaven; Give me quickly the good fortune; That I so desire. The printing was done in Mexico City in October of 1911 by Antonio Vanegas Arroyo.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Narration telling the reader to praise the Lord and to practice acts of faith to protect Mexico from war, hunger, diseases, and natural disasters. There is also a prayer to the Holy Trinity and to the Holy Virgin Mary of Guadalupe. Wood paper print by Jose Guadalupe Posada, published by Antonio Vanegas Arroyo in 1915 in Mexico City. From the Library of Congress Archive.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A restrike print shows an image of Our Lady of Guadalupe on an altar surrounded by candles and flowers. Created by Jose Guadalupe Posada on behalf of the Antonio Venegas Arroyo (publisher) in Mexico City circa 1910. Found in the Library of Congress Archives.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2b/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/2b/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A photograph captures Emiliano Zapata (seated at center). Zapata marched to battle in 1910, carrying banners of the Virgin of Guadalupe, much like Miguel Hidalgo did during the Mexican War of Independence, 1809-1811. Library of Congress Archives.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

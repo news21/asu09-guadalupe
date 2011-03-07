@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/3d1a/01TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/01.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Gutierrez smokes a cigarette in her home in Tempe, Ariz. A devout Catholic, Gutierrez  sees the Virgin as an important part of her faith.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d1a/02TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/02.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Gutierrez smokes a cigarette in her home in Tempe, Ariz. A devout Catholic, Gutierrez considers the Virgin an important part of her faith.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d1a/03TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/03.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Raquel Gutierrez pulls out an image of the Virgin of Guadalupe in her home Tuesday morning in Tempe, Ariz. Gutierrez, a devout Catholic, has a strong devotion to the Virgin of Guadalupe which she has passed onto her four daughters although only one remains Catholic today. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d1a/04TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/04.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Gutierrez's grandson plays with her dog in the living room. She says she has tried to pass on her religious convictions to her children and grandchildren.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d1a/05TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/05.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Raquel Gutierrez keeps a Virgin of Guadalupe outside her home Tuesday morning in Tempe, Ariz. Gutierrez, a devout Catholic, has a strong devotion to the Virgin of Guadalupe which she has passed onto her four daughters although only one remains Catholic today. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d1a/06TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/06.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Raquel Gutierrez has a mural of the Virgin of Guadalupe in her kitchen in her home in Tempe, Ariz. Gutierrez, a devout Catholic, has a strong devotion to the Virgin of Guadalupe which she has passed onto her four daughters although only one remains Catholic today. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d1a/07TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/07.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Raquel Gutierrez shares an earring of the Virgin of Guadalupe Tuesday morning in Tempe, Ariz. Gutierrez, a devout Catholic, has a strong devotion to the Virgin of Guadalupe which she has passed onto her four daughters although only one remains Catholic today. Photo by Deanna Dent ]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d1a/08TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/08.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Raquel Gutierrez relaxes inside her home Tuesday morning in Tempe, Ariz. Gutierrez, a devout Catholic, has a strong devotion to the Virgin of Guadalupe which she has passed onto her four daughters although only one remains Catholic today. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d1a/09TB.jpg</thumbnail>
+		<image>assets/nodes/3d1a/09.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Raquel Gutierrez's Virgin of Guadalupe that was given to her by a Catholic priest in Sells, Arizona. Gutierrez, a devout Catholic, has a strong devotion to the Virgin of Guadalupe which she has passed onto her four daughters although only one remains Catholic today. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

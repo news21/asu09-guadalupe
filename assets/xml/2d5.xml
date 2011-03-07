@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/2d5/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A yard ornament depicts Jesus Malverde, a Robin Hood-type of character who has been adopted by many drug traffickers along the U.S.-Mexico border. The ornament is displayed along with Chihuahuas, frogs and angels in the shopping district of Tijuana, Mexico.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A yard ornament depicts Jesus Malverde, a Robin Hood-type of character who has been adopted by many drug traffickers along the U.S.-Mexico border. The ornament is displayed along with Chihuahuas, frogs and angels in the shopping district of Tijuana, Mexico. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A statue of Santa Muerte, a patron saint for lost causes and sometimes narcos and migrants, is set out for sale along side the road that leads to United States in Agua Preita, Sonora. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A Santa Muerte escapulario for sale outside a church in Tijuana, Mexico. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Santa Muerte statues sit for sale inside a Nogales saints shop in Sonora, Mexico. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Malverde's image sits beside necklaces and tokens of San Judas and the Virgen of Guadalupe in a saints shop in Nogales, Sonora. Malverde is best known as a robin hood character from Culiacan, Sinaloa who has become unofficially adopted as a narco-saint for many traffickers along the U.S.-Mexico border. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Malverde's image is seen on a poster along with the Virgin of Guadalupe in a saints shop in Nogales, Sonora. Malverde is best known as a robin hood character from Culiacan, Sinaloa who has become unofficially adopted as a narco-saint for many traffickers along the U.S.-Mexico border. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Dozens of Santa Muerte necklaces are among the items for sale at a Santeria shop in Nogales.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Former Arizona State University religion professor Daniel Ramirez bought this portrait of St. Romo in Mexico. Romo's following among immigrants has grown quickly since Romo was canonized in 2000.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A prayer card for Romo, a recently canonized saint, whose following is growing tremendously. He is considered a saint for those who plan to cross into the United States and while his base of worship is in Jalisco, Mexico he has gathered a large following throughout Mexico and the United States. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[St. Romo was a Catholic priest in Jalisco, Mexico, before he was shot by government forces for allegedly instigating unrest against the government. His following has spread from Jalisco across Mexico and the United States.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d5/12_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d5/12.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The popularity of St. Judas, patron saint of lost causes, also has been growing in popularity, especially in Mexico and with younger generations. The saint is displayed on an altar in the home of Raquel Gutierrez of Tempe, Ariz.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/1b3/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A young dancer leaves the Basilica of the Virgin of Guadalupe with his mother in Mexico City in February. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A young dancer is escorted from the basilica after a performance honoring the Virgin.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Children watch performers in the plaza outside the basilica in Mexico City.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A boy from Toluca, Mexico, watches as other pilgrims exit the basilica.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A group of pilgrims leave the basilica after paying respects to the Virgin of Guadalupe.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Mothers grip their children’s hands as they make their way through the crowded streets near the basilica.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Pilgrims often carry images of the Virgin with them to the basilica. Some tie statues or photos on their backs for the journey.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A man holding a statue of the Virgin makes his way through a crowd of pilgrims near the basilica in Mexico City.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A young pilgrim chews on a calendar that displays the Virgin of Guadalupe. Vendors near the cathedral sell numerous religious items to pilgrims and tourists.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Pilgrims from Chalma, Mexico, ride a bus home from the Basilica of the Virgin of Guadalupe in Mexico City.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The leader of a pilgrimage to Mexico City checks to see if anyone has been left behind.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/12_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/12.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Pilgrims carry the Virgin of Guadalupe through the streets of Chalma.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/13_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/13.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Pilgrims hold up the statue of the Virgin as they walk through the streets of Chalma.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/14_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/14.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Family members and friends wait for the pilgrims near the capilla of the Virgin de Guadalupe in Chalma.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/15_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/15.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A procession of pilgrims carry the statue of the Virgin through Chalma’s old town.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/16_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/16.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Pilgrims attend midnight Mass at the capilla of the Virgin of Guadalupe in Chalma, Mexico.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/17_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/17.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A child falls asleep as a midnight service to the Virgin of Guadalupe begins.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/18_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/18.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A woman worships in silence.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b3/19_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b3/19.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Pilgrims return the Virgin of Guadalupe to her chapel in Chalma, Mexico.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

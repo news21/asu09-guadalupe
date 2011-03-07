@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/1b2/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/1.jpg</image>
+		<title><![CDATA[Esteban Rodriguez]]></title>
+		<description><![CDATA[Esteban Rodriguez is one of tens of thousands of pilgrims who visit the Basilica of the Virgin of Guadalupe in Mexico City each year. Rodriguez shares fruit snacks with other pilgrims on the bus home to Chalma after their visit.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/2.jpg</image>
+		<title><![CDATA[Esteban Rodriguez]]></title>
+		<description><![CDATA[Esteban Rodriguez is one of tens of thousands of pilgrims who visit the Basilica of the Virgin of Guadalupe in Mexico City each year. Rodriguez shares fruit snacks with other pilgrims on the bus home to Chalma after their visit.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/3.jpg</image>
+		<title><![CDATA[Handkerchief]]></title>
+		<description><![CDATA[A pilgrim shows off a handkerchief embroidered with the image of the Virgin of Guadalupe. It was made for him by his mother.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/4.jpg</image>
+		<title><![CDATA[Return Home]]></title>
+		<description><![CDATA[A group of friends prepare to return home to Chalma, Mexico, after a visit to the basilica of the Virgin of Guadalupe this spring.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/5.jpg</image>
+		<title><![CDATA[Boarding]]></title>
+		<description><![CDATA[Pilgrims from Chalma board a bus to return home after their visit to the basilica in Mexico City.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/6.jpg</image>
+		<title><![CDATA[Midnight Mass]]></title>
+		<description><![CDATA[An older man from a nearby town asked me to take his portrait as he left the midnight mass in Chalma, Mexico. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/7.jpg</image>
+		<title><![CDATA[El Moreno]]></title>
+		<description><![CDATA[A Chalma man, known as El Moreno (right), wears a track outfit airbrushed with an unorthodox image of the crucifixtion.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/8.jpg</image>
+		<title><![CDATA[Handkerchief]]></title>
+		<description><![CDATA[A pilgrimage organizer checks to see if anyone has been left behind halfway to Chalma, Mexico. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/9.jpg</image>
+		<title><![CDATA[Handkerchief]]></title>
+		<description><![CDATA[Pilgrims wait for a bus to be found that will take them back to Chalma, Mexico from Mexico City. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/10.jpg</image>
+		<title><![CDATA[Statue]]></title>
+		<description><![CDATA[A pilgrim holds her virgin statue close as she waits for a bus in Mexico City. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/11.jpg</image>
+		<title><![CDATA[Photo]]></title>
+		<description><![CDATA[This pilgrim stopped and asked me to take his photo during a rest stop on the way to Chalma, Mexico. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/12_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/12.jpg</image>
+		<title><![CDATA[Hundreds]]></title>
+		<description><![CDATA[An older pilgrim decides to wait as the hundreds of pilgrims from Chalma stream through the market on the way to their buses in Mexico City. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1b2/13_thumb.jpg</thumbnail>
+		<image>assets/nodes/1b2/13.jpg</image>
+		<title><![CDATA[Basilica]]></title>
+		<description><![CDATA[Pilgrims stand outside the Basilica of the Virgin of Guadalupe in Mexico City.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

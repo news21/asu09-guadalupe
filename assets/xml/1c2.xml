@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+		audio="assets/nodes/1c2/PRAYER01_1-2.mp3"
+	/>
+	<item>
+		<thumbnail>assets/nodes/1c2/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/1c2/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1c2/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/1c2/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	
+</banner>

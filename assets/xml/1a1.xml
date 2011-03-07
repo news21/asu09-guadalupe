@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+		audio="assets/nodes/1a1/SWINEFLU_1-2.mp3"
+	/>
+	<item>
+		<thumbnail>assets/nodes/1a1/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A young woman runs toward the Basilica of the Virgin of Guadalupe in Mexico City. The basilica is usually filled with pilgrims and tourists, although the numbers dropped to a handful during the swine flu, or H1N1 scare, this spring. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A young woman runs into the entrance of the basilica of the Virgin of Guadalupe complex in Mexico City. During the start of the pandemic H1N1 masses were held outside only and the normal throngs of people that filled the basilica only a few days prior trickled to a handful of the faithful.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Dawn at the basilica of the Virgin of Guadalupe complex in Mexico City. During the start of the pandemic H1N1 masses were held outside only and the normal throngs of people that filled the basilica only a few days prior trickled to a handful of the faithful.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A pair of ladies attends morning mass at the basilica of the Virgin of Guadalupe complex in Mexico City during the height swine flu pandemic in the city. During the start of the pandemic H1N1 masses were held outside only and the normal throngs of people that filled the basilica only a few days prior trickled to a handful of the faithful.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[On a normaly bustling street outside the entrance of the basilica of the Virgin of Guadalupe complex in Mexico City there is no movement. During the start of the pandemic H1N1 masses were held outside only and the normal throngs of people that filled the basilica only a few days prior trickled to a handful of the faithful.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Normally a tourist attraction for photos, Virgin of Guadalupes and Juan Diegos are hidden away in the midst of the swine flu pandemic at the basilica of the Virgin of Guadalupe complex in Mexico City. During the start of the pandemic H1N1 masses were held outside only and the normal throngs of people that filled the basilica only a few days prior trickled to a handful of the faithful.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Nuns admire the tilma of Juan Diego without masks during the beginnings of the swineflu pandemic at the basilica of the Virgin of Guadalupe complex in Mexico City. During the start of the pandemic H1N1 masses were held outside only and the normal throngs of people that filled the basilica only a few days prior trickled to a handful of the faithful.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A group of young nuns wear face masks to protect from the spread of the flu as they visit the basilica.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A group of nuns brave the threat of flu in order to visit the basilica this spring.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[At the beginning of the swine flu scare this spring, The basilica's Masses were moved outdoors. The normal throngs of people declined to a trickle.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A woman admires her image of the Virgin of Guadalupe during an outdoor Mass at the  basilica this spring.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/12_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/12.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Outdoor shops that are normally jammed with pilgrims and tourists stand empty at the start of the swine flu outbreak in Mexico City this spring.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/13_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/13.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An outdoor mass at the basilica of the Virgin of Guadalupe complex in Mexico City. During the start of the pandemic H1N1 masses were held outside only and the normal throngs of people that filled the basilica only a few days prior trickled to a handful of the faithful.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/1a1/14_thumb.jpg</thumbnail>
+		<image>assets/nodes/1a1/14.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A prayer to the Virgin of Guadalupe.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

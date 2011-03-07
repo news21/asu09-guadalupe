@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/2d4/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d4/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[St. Romo is gaining a large popular following in Mexico and the United States. He is the saint that immigrants frequently pray to when they plan to cross -- often illegally -- into the United States.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d4/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d4/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[St. Romo is gaining a large popular following in Mexico and the United States. He is the saint that immigrants frequently pray to when they plan to cross - often illegally - into the United States.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d4/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d4/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Saint Romo at his funeral after being shot during the Cristeros War in the 1920s. He is considered a saint for those who plan to cross into the United States and while his base of worship is in Jalisco, Mexico he has gathered a large following throughout Mexico and the United States.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d4/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d4/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d4/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d4/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d4/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d4/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Prayer cards are popular among the Catholic faithful. This one of St. Romo has his image on one side an a "prayer for the immigrant" on the other.]]></description>
+		<timer>5</timer>
+	</item>
+	
+</banner>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/3b3/01TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/01.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Cuevas' studio and home in San Francisco is filled with his paintings of the Virgin of Guadalupe. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/02TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/02.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[San Francisco artist Vladimir Cuevas' studio and home are filled with his paintings of the Virgin of Guadalupe. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/03TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/03.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Cuevas has lived in the United States for more than 15 years, but much of his inspiration comes from his native country of Mexico.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/04TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/04.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Cuevas estimates that he has painted the Virgin of Guadalupe more than 200 times.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/05TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/05.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Cuevas paints large, vivid images of the Virgin in oil and acrylic.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/06TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/06.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[When it is finished, this painting will be sent to Manila in the Philippines to hang inside a church there dedicated to the Virgin of Guadalupe.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/07TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/07.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[This painting shows the Virgin as she appeared on Juan Diego's tilma, or cloak, in 1531. ]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/08TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/08.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[This painting of the Virgin is one of six that Cuevas has painted for the church in Manila, the Philippines. ]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/09TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/09.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[In this painting, the artist includes indigenous Mexican symbols in the outline of the Virgin's halo.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/10TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Cuevas creates an impressionistic version of the Virgin in this painting.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3b3/11TB.jpg</thumbnail>
+		<image>assets/nodes/3b3/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Cuevas works out of a studio in San Francisco.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

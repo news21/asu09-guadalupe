@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/2d3/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An introduction book to the Cult of Santa Muerte.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2d3/12_thumb.jpg</thumbnail>
+		<image>assets/nodes/2d3/12.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

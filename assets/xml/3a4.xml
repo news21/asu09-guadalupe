@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/3a4/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[This panorama shows a lowrider show and concert in Tucson, Ariz. Photos by Deanna Dent.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Fans let loose during a performance of "Baby Bash" during the lowrider car show and concert in Tucson. The band plays a combination of Hip Hop and R&B.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A lowrider car is displayed at a show in Tucson. Lowriders originated in Mexican-American communities in Los Angeles County, but their popularity has spread around the world.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A visitor to the lowrider show is reflected in the rim of a Ford 150 truck.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA["Baby Bash" poses for photos with young fans at the lowrider car show in Tucson.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Concert-goers at the lowrider car show wait for a performance to start.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Admirers view the interior of a lowrider car. The term "lowrider" originates from "low riding," as the vehicles ride low to the ground. Lowriders have become a part of the urban youth culture, particularly on the West coast.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The music is almost as much of a draw as the cars at the lowrider car show in Tucson.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A little boy is held by his mom as she sings along with Baby Bash at the lowrider car show in Tucson, Ariz. Baby Bash and other artists played a concert at the show as well. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3a4/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/3a4/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A concert-goer wears a T-shirt displaying an image of the Virgin of Guadalupe. The lowrider culture, like the Virgin, is popular among many Mexican-Americans.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

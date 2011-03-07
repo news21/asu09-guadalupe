@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<audiofile>
+<image url="assets/nodes/2a1/bg.jpg" />
+<clips>
+	<clip>
+		<audio>assets/nodes/2a1/1.mp3</audio>
+		<title><![CDATA[View of Culture]]></title>
+	</clip>	
+</clips>
+</audiofile>

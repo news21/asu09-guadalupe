@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<links>
+	<link>
+		<image>assets/nodes/1a2/1.jpg</image>
+		<title><![CDATA[Official site of the basilica]]></title>
+		<description><![CDATA[Official site of the basilica: <a href="http://www.virgendeguadalupe.org.mx/">http://www.virgendeguadalupe.org.mx/</a> - you can live stream audio and video sermons, get information on upcoming pilgrimage, get prayers, pretty much anything one might need to know about the area.]]></description>
+		<url>http://www.virgendeguadalupe.org.mx/</url>
+		<target>_blank</target>
+	</link>	
+	<link>
+		<image>assets/nodes/1a2/2.jpg</image>
+		<title><![CDATA[Googlemap]]></title>
+		<description><![CDATA[1.Googlemap: <a href="http://tinyurl.com/kpnwps">http://tinyurl.com/kpnwps</a> ]]></description>
+		<url>http://tinyurl.com/kpnwps</url>
+		<target>_blank</target>
+	</link>
+	<link>
+		<image>assets/nodes/1a2/3.jpg</image>
+		<title><![CDATA[Extra random site]]></title>
+		<description><![CDATA[1.Extra random site: <a href="http://www.sancta.org/basilica.html">http://www.sancta.org/basilica.html</a> ]]></description>
+		<url>http://www.sancta.org/basilica.html</url>
+		<target>_blank</target>
+	</link>
+</links>

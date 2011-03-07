@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<audiofile>
+<image url="assets/nodes/3g/bg.jpg" />
+<clips>
+	<clip>
+		<audio>assets/nodes/3g/1.mp3</audio>
+		<title><![CDATA[Listen To Audio]]></title>
+	</clip>	
+</clips>
+</audiofile>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<audiofile>
+<image url="assets/nodes/2d4a/bg.jpg" />
+<clips>
+	<clip>
+		<audio>assets/nodes/2d4a/1.mp3</audio>
+		<title><![CDATA[English]]></title>
+	</clip>
+	<clip>
+		<audio>assets/nodes/2d4a/2.mp3</audio>
+		<title><![CDATA[Spanish]]></title>
+	</clip>
+</clips>
+</audiofile>

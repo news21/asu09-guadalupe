@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<audiofile>
+<image url="assets/nodes/2d6/bg.jpg" />
+<clips>
+	<clip>
+		<audio>assets/nodes/2d6/1.mp3</audio>
+		<title><![CDATA[Jesus Malverde]]></title>
+	</clip>	
+</clips>
+</audiofile>

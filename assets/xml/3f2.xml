@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/3f2/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/3f2/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[La Marca del Diablo, a store in Hollywood, Calif., sells images of the Virgin of Guadalupe in a Rockabilly style printed on tank tops, t-shirts and handkerchiefs. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3f2/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/3f2/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Many of the items in the La Marca del Diablo store reflect a Rockabilly style. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3f2/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/3f2/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A handkerchief contains an image of the Virgin of Guadalupe with a skull face and skull decorations.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

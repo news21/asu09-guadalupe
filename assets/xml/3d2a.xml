@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/3d2a/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal of Woodland, Calif., fills her house with hundreds of Virgin of Guadalupe items. Although she is no longer a practicing Catholic, she says she still worships the Virgin.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal makes a stop at a church sale in Woodland, Calif., to see if any Virgin of Guadalupe items are for sale. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal keeps a candle of the Virgin of Guadalupe tucked in her bookshelf in her Woodland, California home. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal shows off her Virgin of Guadalupe rosary that she keeps at her office in San Fransisco, California. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal keeps an image of the Virgin of Guadalupe above of her bed in Woodland, California home. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal calls this Virgin of Guadalupe her "Vietnamese Virgen," because it was made in Vietnam and has asian features. She hands it in the hallway of her Woodland, California home. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A light switch in Madrigal's Woodland, California home. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Madrigal's keys are decorated with the Virgin's image. She gets the keys cut at the neighborhood Dollar Store.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Madrigal keeps a candle holder near the kitchen in her Woodland, California home. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal keeps a shrine to the Virgin of Guadalupe inside her Woodland, California home. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Madrigal keeps an image of a day of the dead Virgin of Guadalupe inside her Woodland, California home. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/12_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/12.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal pulls out three of seven prayer cards of the Virgin of Guadalupe that she keeps inside her purse at her office in San Fransisco, California. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/3d2a/13_thumb.jpg</thumbnail>
+		<image>assets/nodes/3d2a/13.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Anita Madrigal turns the light on in her bedroom to show her Virgins of Guadalupe in her Woodland, California home. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

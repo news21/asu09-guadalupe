@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/2h/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The image of the Virgin of Guadalupe appears on a T-shirt at the Teocintli store in Boyle Heights, Los Angeles. Her face is rendered as a skull with the words "Live life." Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A shirt with the Virgin of Guadalupe with a skull face that says "live life," inside th Teocintli store in BoyleHeights, Los Angeles, California. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A wallet with the image of a Zapatista Virgin of Guadalupe inside the Teocintli store in BoyleHeights, Los Angeles, California. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Belt buckles with images of the Virgin are popular with customers of the store.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The Virgin appears even on mouse pads sold at the store. Such items are one way that Mexican-Americans embrace their heritage.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Bracelets like these are popular among Mexican-Americans, not just for decoration, but as a way to express their heritage.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A customer wears a Virgin of Guadalupe necklace. She was looking for T-shirts with the Virgin's image.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The Virgin's image shows up on necklaces, earrings and bracelets.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A sugar mold of the Virgin of Guadalupe is one of the many unusual items at the Teocintli store.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A Virgin of Guadalupe greeting card is displayed among other cards in the store.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[This colorful fabric wallet is decorated with an image of the Virgin.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/12_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/12.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A belt buckle in the shape of a heart contains an image of the Virgin.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/13_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/13.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The Teocintli store in Boyle Heights is owned by Nico Tonatiuh and his wife Mayra Vasquez. Nico, an artist, creates many of the T-shirts sold in the store.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2h/14_thumb.jpg</thumbnail>
+		<image>assets/nodes/2h/14.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The Teocintli store in East Los Angeles sits in the midst of a heavily Latino community.]]></description>
+		<timer>5</timer>
+	</item>
+</banner>

@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<banner>
+	<globals
+		width="496" height="375" 
+		currentItem="0" radius="0"
+		showButtons="true"
+		showPlayPauseButton="true" showContent="true"
+		bgColor="#000000" bgAlpha="0.8" bgPaddingBottom="0"
+		titleColor="#FFFFFF" titleFontSize="16"
+		descriptionColor="#999999" descriptionFontSize="11"
+		cssFile="assets/css/banner.css"
+	/>
+	<item>
+		<thumbnail>assets/nodes/2c1/1_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/1.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The Virgin of Guadulpe is a religious and cultural symbol to thousands in both Mexico and the United States. A devoted follower of the Virgin of Guadalupe, Raquel Gutierrez of  Tempe, Ariz., built this altar to the Virgin in her home. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/2_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/2.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The Virgin of Guadulpe is a religious and cultural symbol to many in both Mexico and the United States. A devoted follower of the Virgin of Guadalupe, Raquel Gutierrez of  Tempe, Ariz., built this altar to the Virgin in her home. Photos by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/3_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/3.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Brock Glass, 24, of Phoenix, had the Virgin of Guadalupe tattooed on his arm.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/4_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/4.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A girl in Austin, Texas, shows off a purse of the Virgin of Guadalupe made for her by her mother. She said she views the image as more cultural than religious.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/5_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/5.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A calling card to Mexico is being sold with the image and name of the Virgin of Guadalupe in a convenience store in Austin, Texas. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/6_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/6.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Maria Torres shows her bracelet of the Virgen of Guadalupe on July 4th, after being sworn in as a U.S. Citizen in Phoenix, Arizona. She, like many others, looks to the Virgin of Guadalupe as a symbol of faith and protection. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/7_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/7.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An altar is dedicated to the Virgin of Guadalupe at her basilica in Mexico City.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/8_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/8.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A worshipper scoops up her statute to have it blessed at the Basilica of the Virgin of Guadalupe in Mexico City.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/9_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/9.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A statue of the Virgin of Guadalupe stands in storage during the swine flu pandemic in Mexico City, Mexico. Often used to post tourists with, even the basilica was shut down for fear of spreading the H1N1 disease in April 2009. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/10_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/10.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The cloak of Juan Diego hangs on the wall of the Basilica of the Virgin of Guadalupe, where it is viewed by thousands of pilgrims and tourists each year. The cloak is still intact after more than 400 years.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/11_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/11.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Painter Vladimir Cuevas arranges his many paintings of the Virgin of Guadalupe in his home and studio in San Fransisco, California. Cuevas has painted the Virgin over 200 times and has been commissioned to paint several images of her for a church in the Philippines. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/12_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/12.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Ray Sanchez of Hollywood, Calif., draws the Virgin in a Rockabilly style.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/13_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/13.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An image of the Virgin of Guadalupe remains untouched although the rest of the wall has been tagged by grafitti in Boyle Heights, Los Angeles, California. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/14_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/14.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A beaded curtain of the Virgin of Guadalupe made in Vietnam sits inside the house of Anita Madrigal in Woodland, California. The curtain is one of many virgins in Madrigal's home as she venerates and collects the Virgin of Guadalupe. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/15_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/15.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[At the entrance of Vladimir Cuevas' studio and home in San Fransisco, California is a Virgen de Guadalupe tourist token. During the forties and fifties tourists could buy these images from the basilica de la Virgen de Guadalupe in Mexico City to take home as a momento of their visit. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/16_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/16.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[A man known as El Moreno in his town wears a spray Virgen de Guadalupe on his cap and Jesus on his sweatsuit in Mexico City, Mexico. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/17_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/17.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An image of the Virgin of Guadalupe sits alongside images of naked women in a printer's shop in the center of Mexico City, Mexico. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/18_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/18.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Residents of Miami, Ariz., tack up photos of loved ones, prayers and images of the Virginof Guadalupe inside an altar to the Virgin Mary along the outskirts of town.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/19_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/19.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Luke Dorsett, a film maker based out of Tempe, Arizona, shows off a sweatshirt with the Virgin of Guadalupe. The sweatshirt is made by a Brazilian designer and sold in Japan. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/20_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/20.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Statues of the Virgin of Guadalupe are popular with pilgrims and tourists in Mexico City.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/21_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/21.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Juan Canchola Serratos, who is called El Bulico, or the Rooster, by his friends, is proud of his bike, which he built and decorated with items he has picked up on either side of the border during his 30 years as a seasonal worker in the United States.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/22_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/22.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An image of the Virgin of Guadalupe on a blanket sits for sale inside a dollar store in Morgan Adams in Washington D.C. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/23_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/23.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Virgens de Guadalupe for sale outside a church in Tijuana, Mexico. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/24_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/24.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[The Virgin of Guadalue sits for sale in an antiques and art gallery in Morgan Adams in Washington D.C. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/25_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/25.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An image of the Virgin decorates the inside of a guitar belonging to a singer in Xochimilco, Mexico.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/26_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/26.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Pedestrians pass a mural of the Virgin of Guadalupe outside a shopping center in Tijuana, Mexico.]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/27_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/27.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[An image of the Virgin of Guadalupe as a zombie inside Rockabilly Ray's tattoo shop in Hollywood, California. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+	<item>
+		<thumbnail>assets/nodes/2c1/28_thumb.jpg</thumbnail>
+		<image>assets/nodes/2c1/28.jpg</image>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[Franky Espinoza shows off his Virgin of Guadalupe tattoo. While religious he says it reminds him of where he comes from, born in Sonoita, Sonora and who he is, American. Photo by Deanna Dent]]></description>
+		<timer>5</timer>
+	</item>
+</banner>
